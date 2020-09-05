@@ -6,14 +6,14 @@ var clickSnd = new Audio("audio/click.mp3");
 var winSnd = new Audio("audio/win.mp3");
 
 var JSONBingo = {"squares": [
-        {"square": "uebergang verkackt"},
+        {"square": "Uebergang verkackt"},
         {"square": "Pirat"},
-        {"square": "Mann mit fischernetz Top"},
+        {"square": "Mann mit Fischernetz Top"},
         {"square": "Muffin Hose"},
-        {"square": "Zu enges Korset"},
+        {"square": "Zu enges Korsett"},
         {"square": "Musik hoert auf zu spielen"},
-        {"square": "gehstock mit komischer figur"},
-        {"square": "es richt komisch"},
+        {"square": "Gehstock mit komischer Figur"},
+        {"square": "es riecht komisch"},
         {"square": "Person an Leine"},
         {"square": "schlimme Pandaaugen"},
         {"square": "Bewegungslegastheniker"},
@@ -23,12 +23,12 @@ var JSONBingo = {"squares": [
         {"square": "Irgendwas mit Latex"},
         {"square": "Cybergoth"},
         {"square": "BuntFolk"},
-        {"square": "bondege"},
+        {"square": "Bondage"},
         {"square": "Pluesch Stiefel"},
-        {"square": "1Muffin Hose"},
-        {"square": "Zu enges Korest"},
-        {"square": "Musik hoert auf zu spielen"},
-        {"square": "gehstock mit komischer figur"},
-        {"square": "es richt komisch"},
+        {"square": "mit der Niete im Netzoberteil haengengeblieben"},
+        {"square": "nackter Oberkoerper"},
+        {"square": "Jogginghose und Turnschuhe"},
+        {"square": "hatten wir das Lied nicht schon"},
+        {"square": "Woooohhh Girls"},
     ]
 };
